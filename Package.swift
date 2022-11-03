@@ -13,14 +13,14 @@ let package = Package(
             targets: ["SendbirdLiveUIKitTarget"]),
     ],
     dependencies: [
-        .package(url: "https://github.com/sendbird/sendbird-live-sdk-ios", from: "1.0.0-beta.3"),
-        .package(url: "https://github.com/sendbird/sendbird-uikit-ios", from: "3.2.0")
+        .package(url: "https://github.com/sendbird/sendbird-live-sdk-ios", from: "1.0.0-beta.4"),
+        .package(url: "https://github.com/sendbird/sendbird-uikit-ios", from: "3.2.2")
     ],
     targets: [
         .binaryTarget(
             name: "SendbirdLiveUIKit",
-            url: "https://github.com/sendbird/sendbird-live-uikit-ios/releases/download/v1.0.0-beta/SendbirdLiveUIKit.xcframework.zip",
-            checksum: "4e7761e1db10d4b496ab8e5ac8a0fd193e0c12dc4a15bcbd779697409671bff5"
+            url: "https://github.com/sendbird/sendbird-live-uikit-ios/releases/download/v1.0.0-beta.2/SendbirdLiveUIKit.xcframework.zip",
+            checksum: "532ddd2d64e0c8542289795d5019877041223b919fb1eb31734759db7ec23bdf"
         ),
         .target(name: "SendbirdLiveUIKitTarget",
                 dependencies: [
