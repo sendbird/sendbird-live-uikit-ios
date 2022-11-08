@@ -1,5 +1,8 @@
 # Change Log
 
+## v1.0.0-beta.3 (Nov 9, 2022)
+- Improved stability. 
+
 ## v1.0.0-beta.2 (Nov 3, 2022)
 - Improved stability. 
 
