@@ -1,6 +1,6 @@
 # Change Log
 
-## v1.0.0-beta.4 (Mar 24, 2023)
+## v1.0.0-beta.5 (Mar 24, 2023)
 - Introducing Reactions in Live Events.
     - Added reaction button and reaction animation to live event view.
     - You can add customized icons and animation to be used when users react to live events.

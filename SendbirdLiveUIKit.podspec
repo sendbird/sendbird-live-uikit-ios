@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = 'SendbirdLiveUIKit'
-  s.version      = "1.0.0-beta.4"
+  s.version      = "1.0.0-beta.5"
   s.summary      = 'Sendbird Live iOS UIKit Framework'
   s.description  = 'Sendbird Live UIKit for iOS allows you to create customizable views and execute essential live functions'
   s.homepage     = 'https://sendbird.com'
@@ -9,7 +9,7 @@ Pod::Spec.new do |s|
     'Minhyuk Kim' => 'minhyuk.kim@sendbird.com',
     'Sendbird' => 'sha.sdk_deployment@sendbird.com'
   }
-  s.source       = { :http => "https://github.com/sendbird/sendbird-live-uikit-ios/releases/download/v1.0.0-beta.4/SendbirdLiveUIKit.zip", :sha1 => "a165ace5ac6b8b86962a8bf5127e5965b63a0bcb" }
+  s.source       = { :http => "https://github.com/sendbird/sendbird-live-uikit-ios/releases/download/v1.0.0-beta.5/SendbirdLiveUIKit.zip", :sha1 => "93f2ce6d7b48681ab6af0af3703e5f012e95f3c2" }
   s.requires_arc = true
   s.platform = :ios, '11.0'
   s.documentation_url = 'https://sendbird.com/docs/live/v1/ios/ref/index.html'
